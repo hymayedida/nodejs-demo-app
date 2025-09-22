@@ -80,8 +80,8 @@ jobs:
 ## Githubactions results
 
 * On every push or pull request to the main branch, the GitHub Actions pipeline triggers automatically, builds the project, and publishes a new Docker image to Docker Hub.
-![Githubaction](images/GitHub Action image.png) 
-![Githubaction](images/GitHub Action.png)
+![Githubaction](images/GitHub%20Action%20image.png) 
+![Githubaction](images/GitHub%20Action.png)
 
 ## Docker image in Docker Hub
-![docker image](images/docker Hub.png)
+![docker image](images/docker%20Hub.png)
